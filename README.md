@@ -18,7 +18,7 @@ To build an interactive and insightful Power BI dashboard that enables HR teams 
 
 ## 📊 Dataset
 
-- **Source:** HR_Analytics.csv 
+- **📁 Dataset:** [Download HR_Analytics.csv](HR_Analytics.csv)
 - **Rows:** ~1400 employee records  
 - **Columns Include:**
   - Employee Demographics (Age, Gender, Marital Status)
@@ -90,5 +90,5 @@ Example:
 
 ---
 
-## 📁 Folder Structure
+
 
