@@ -84,8 +84,8 @@ Example:
 
 ## 🔍 Key Insights
 
-- Most attrition is seen in early career stages (Age 18–25)
-- Certain job roles and education fields show higher turnover
+- Most attrition is seen in early career stages (Age 26–35)
+- education fields (hr and technical) show higher attrition rate
 - Monthly income and job satisfaction are major drivers of retention
 
 ---
