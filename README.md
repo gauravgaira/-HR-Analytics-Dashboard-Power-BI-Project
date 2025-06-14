@@ -78,7 +78,7 @@ All KPIs are formatted with consistent style and placed at the top of the report
 ## 📷 Dashboard Preview
 
 Example:  
-![Dashboard Preview](screenshots/hr_dashboard_main.png)
+![HR Dashboard Preview](hr%20analytics%20dashboard.PNG)
 
 ---
 
