@@ -16,6 +16,13 @@ To build an interactive and insightful Power BI dashboard that enables HR teams 
 
 ---
 
+## 📷 Dashboard Preview
+
+Example:  
+![HR Dashboard Preview](hr_dashbaord.PNG)
+
+---
+
 ## 📊 Dataset
 
 - **📁 Dataset:** [Download HR_Analytics.csv](HR_Analytics.csv)
@@ -75,12 +82,6 @@ All KPIs are formatted with consistent style and placed at the top of the report
 
 ---
 
-## 📷 Dashboard Preview
-
-Example:  
-![HR Dashboard Preview](hr_dashbaord.PNG)
-
----
 
 ## 🔍 Key Insights
 
